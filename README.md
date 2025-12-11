@@ -1,7 +1,7 @@
 
 # Project Title
 
-Introduction to AI. A brief Introduction to every AI domain. With the references to the papers. 
+Introduction to AI. A brief Introduction to every AI domain. With the references to the spesific papers. 
 
 
 ## Authors
