@@ -1,5 +1,5 @@
 
-# 0 to Advanced Introduction To AI Beyond Hype
+# Zero to Hero Repo for AI
 
 ## Introduction
 Started by giving a representation to my team at @infinitumIT. Personal repo to stock all my notes about AI in a structured way. You can easily find what you need. Just Check the PDF.
