@@ -15,5 +15,23 @@ Introduction to AI. A brief Introduction to every AI domain. With the references
 * http://neuralnetworksanddeeplearning.com/
 * https://atlas.mitre.org/matrices/ATLAS
 
-## Notes
+## How to run the model.
+
+1- Enter to example_ml folder.
+```
+cd example_ml
+```
+
+2- Activate python virtual env.
+```
+.\.venv\Scripts\Activate.ps1 
+```
+
+3- Run the script.
+```
+python run_model.py
+```
+
+### Notes
 * Main references is given inside the slide. 
+
