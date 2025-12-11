@@ -11,7 +11,7 @@ Started by giving a representation to my team at @infinitumIT. Personal repo to 
 
 1- Enter to example_ml folder.
 ```
-cd example_ml
+cd basicLLM
 ```
 
 2- Activate python virtual env.
