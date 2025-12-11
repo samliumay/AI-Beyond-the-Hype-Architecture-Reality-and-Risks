@@ -10,7 +10,7 @@ Introduction to AI. A brief Introduction to every AI domain. With the references
 
 ## References
 
-* https://github.com/malibayram
+* https://github.com/malibayram (Especially usefull about basic LLM training scripts and 'LLM from scratch' lessons. )
 * https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/
 * http://neuralnetworksanddeeplearning.com/
 * https://atlas.mitre.org/matrices/ATLAS
