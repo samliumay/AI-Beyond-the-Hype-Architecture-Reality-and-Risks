@@ -94,7 +94,7 @@ The repository flows through the evolution of AI, fitting John McCarthy's defini
 
 ---
 
-## 🔗 References & Inspiration
+## References & Inspiration
 
 * **Learning:** [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * **Security:** [OWASP Top 10 for LLM Applications 2025](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/)
@@ -103,12 +103,6 @@ The repository flows through the evolution of AI, fitting John McCarthy's defini
 
 ---
 
-## 👨‍💻 Author
-
+## Author
 **Umay SAMLI**
-* Connect regarding AI Architecture & Security.
-* [GitHub Profile](https://github.com/samliumay)
 * [Email](mailto:samliumay965@gmail.com)
-
----
-*Started as a knowledge-sharing initiative at @infinitumIT.*
