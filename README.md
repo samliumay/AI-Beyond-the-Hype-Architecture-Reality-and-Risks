@@ -99,7 +99,7 @@ The repository flows through the evolution of AI, fitting John McCarthy's defini
 * **Learning:** [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * **Security:** [OWASP Top 10 for LLM Applications 2025](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/)
 * **Threat Matrix:** [MITRE ATLAS](https://atlas.mitre.org/matrices/ATLAS)
-* **Community:** Special thanks to @[malibayram](https://github.com/malibayram) for insights on LLM training scripts.
+* **Community:** Special thanks to [malibayram](https://github.com/malibayram) for insights on LLM training scripts.
 
 ---
 
