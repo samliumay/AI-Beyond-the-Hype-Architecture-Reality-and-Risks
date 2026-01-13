@@ -1,4 +1,4 @@
-# AI Beyond the Hype: Architecture, Reality, and Risks
+# AI-From-Scratch
 
 > **From Zero to Hero:** A comprehensive roadmap combining theoretical foundations, historical context, implementation, and security risks of Artificial Intelligence.
 
